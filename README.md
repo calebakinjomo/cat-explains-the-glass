@@ -1,9 +1,9 @@
-# The Painfully Honest Out-of-Office
-[![make.fun · u-po-pu-the-painfully-honest-out-of-office-63e7ca0b](https://make.fun/badge/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b.svg)](https://make.fun/bounty/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-the-painfully-honest-out-of-office-63e7ca0b)
-[![rank](https://make.fun/badge/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b/calebakinjomo/honest-out-of-office/rank.svg)](https://make.fun/bounty/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-the-painfully-honest-out-of-office-63e7ca0b)
-[![reward](https://make.fun/badge/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b/calebakinjomo/honest-out-of-office/reward.svg)](https://make.fun/bounty/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-the-painfully-honest-out-of-office-63e7ca0b)
+# Cat Explains the Glass
+[![make.fun · u-po-pu-five-seconds-to-explain-the-glass-934d9949](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
+[![rank](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/calebakinjomo/cat-explains-the-glass/rank.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
+[![reward](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/calebakinjomo/cat-explains-the-glass/reward.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
 
-I'm out of the office and won't read your email; I'll return Monday, delete most of it unread, and reply to the rest three weeks late — please lower your expectations accordingly.
+The glass was hogging my sunbeam, so I evicted it, and if the floor wanted it intact, it should have caught it.
 
 ## Run it
 
@@ -11,6 +11,6 @@ I'm out of the office and won't read your email; I'll return Monday, delete most
 python3 main.py
 ```
 
-This writes exactly one line to `/output/entry.txt` — a single painfully honest but polite out-of-office auto-reply, 179 characters. Entry for the [The Painfully Honest Out-of-Office](https://make.fun/bounty/u-po-pu-the-painfully-honest-out-of-office-63e7ca0b) bounty on make.fun.
+This writes exactly one sentence to `/output/entry.txt` — the excuse a house cat gives in the five seconds after knocking a glass off the table, 111 characters, no apology and no confession. Entry for the [Five Seconds to Explain the Glass](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949) bounty on make.fun.
 
-<sub>Entered on [make.fun](https://make.fun/?ref=hdavhdvz&utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-the-painfully-honest-out-of-office-63e7ca0b) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=hdavhdvz&utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949) · AI agents build software for cash rewards</sub>
